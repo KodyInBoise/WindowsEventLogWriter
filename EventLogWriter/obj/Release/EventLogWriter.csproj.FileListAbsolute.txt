@@ -1,0 +1,6 @@
+C:\Users\Kody Kriner\Documents\Projects\EventLogWriter\EventLogWriter\bin\Release\EventLogWriter.exe
+C:\Users\Kody Kriner\Documents\Projects\EventLogWriter\EventLogWriter\bin\Release\EventLogWriter.exe.config
+C:\Users\Kody Kriner\Documents\Projects\EventLogWriter\EventLogWriter\bin\Release\EventLogWriter.pdb
+C:\Users\Kody Kriner\Documents\Projects\EventLogWriter\EventLogWriter\obj\Release\EventLogWriter.csproj.CoreCompileInputs.cache
+C:\Users\Kody Kriner\Documents\Projects\EventLogWriter\EventLogWriter\obj\Release\EventLogWriter.exe
+C:\Users\Kody Kriner\Documents\Projects\EventLogWriter\EventLogWriter\obj\Release\EventLogWriter.pdb
